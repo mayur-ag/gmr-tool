@@ -1,5 +1,5 @@
 """
-Analysis functions for GMR (Global Movement Records) data.
+Analysis functions for GMR (Global Matching Records) data.
 Provides zone conversion, frequency, and missing entrance analysis.
 """
 

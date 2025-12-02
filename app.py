@@ -1,6 +1,6 @@
 """
 Streamlit GMR Analysis Tool
-Upload and analyze Global Movement Records (GMR) data for zone conversion and customer flow analysis.
+Upload and analyze Global Matching Records (GMR) data for zone conversion and customer flow analysis.
 """
 
 import streamlit as st
@@ -27,7 +27,7 @@ st.set_page_config(
 # Title and description
 st.title("GMR Analysis Tool")
 st.markdown("""
-Upload your Global Movement Records (GMR) CSV file to analyze customer zone movements and conversions.
+Upload your Global Matching Records (GMR) CSV file to analyze customer zone movements and conversions.
 The tool provides comprehensive analysis of entrance patterns, zone conversions, and customer flow metrics.
 """)
 
